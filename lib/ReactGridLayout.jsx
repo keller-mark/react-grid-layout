@@ -1,7 +1,7 @@
 // @flow
 import * as React from "react";
 
-import isEqual from "lodash.isequal";
+import isEqual from "lodash/isEqual";
 import clsx from "clsx";
 import {
   bottom,

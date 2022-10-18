@@ -17,7 +17,7 @@ import {
   calcWH,
   calcXY
 } from "../../lib/calculateUtils";
-import isEqual from "lodash.isequal";
+import isEqual from "lodash/isEqual";
 import deepFreeze from "./../util/deepFreeze";
 
 describe("bottom", () => {
